@@ -1,0 +1,9 @@
+[Icon Theme]
+Name=material
+Comment=Google Material Design Icon Theme
+
+Directories=24x24
+
+[24x24]
+Size=20
+Type=Fixed

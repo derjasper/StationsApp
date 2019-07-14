@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>StationsListPage.qml</file>
+        <file>StationDetailsDialog.qml</file>
+        <file>RadioBrowserPage.qml</file>
+        <file>qtquickcontrols2.conf</file>
+        <file>RadioBrowserApi.js</file>
+        <file>StationDelegate.qml</file>
+        <file>PlayerPage.qml</file>
+        <file>PlayerControls.qml</file>
+        <file>icon.png</file>
+        <file>AboutPage.qml</file>
+        <file>SettingsPage.qml</file>
+        <file>icon.svg</file>
+        <file>StreamlinkBackend.qml</file>
+        <file>StreamlinkPage.qml</file>
+        <file>AndroidFolderDialog.qml</file>
+    </qresource>
+</RCC>

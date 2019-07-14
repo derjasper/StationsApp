@@ -1,0 +1,27 @@
+<RCC>
+    <qresource prefix="/icons"/>
+    <qresource prefix="/">
+        <file>icons/material/index.theme</file>
+        <file>icons/material/24x24/contextual-menu.svg</file>
+        <file>icons/material/24x24/audio-volume-high.svg</file>
+        <file>icons/material/24x24/audio-volume-low.svg</file>
+        <file>icons/material/24x24/audio-volume-mute.svg</file>
+        <file>icons/material/24x24/contextual-menu.png</file>
+        <file>icons/material/24x24/drop_up.svg</file>
+        <file>icons/material/24x24/edit.svg</file>
+        <file>icons/material/24x24/edit-delete.svg</file>
+        <file>icons/material/24x24/go-previous.svg</file>
+        <file>icons/material/24x24/help-about.svg</file>
+        <file>icons/material/24x24/list-add.svg</file>
+        <file>icons/material/24x24/media-playback-pause.svg</file>
+        <file>icons/material/24x24/media-playback-start.svg</file>
+        <file>icons/material/24x24/media-playback-stop.svg</file>
+        <file>icons/material/24x24/media-record.svg</file>
+        <file>icons/material/24x24/menu.svg</file>
+        <file>icons/material/24x24/settings.svg</file>
+        <file>icons/material/24x24/view-fullscreen.svg</file>
+        <file>icons/material/24x24/view-refresh.svg</file>
+        <file>icons/material/24x24/view-restore.svg</file>
+        <file>icons/material/24x24/edit-find.svg</file>
+    </qresource>
+</RCC>
